@@ -1,4 +1,4 @@
-# Advanced Command Line Calculator
+# Basic calculator I made in hs
 
 A feature-rich command line calculator written in Python that provides various mathematical operations and a user-friendly interface.
 
